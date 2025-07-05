@@ -1,0 +1,15 @@
+{
+  "name": "Çerçeve Hesaplama",
+  "short_name": "Çerçeve",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f4a300",
+  "icons": [
+    {
+      "src": "pwa-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
